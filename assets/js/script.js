@@ -25,7 +25,7 @@ $(document).ready(function () {
     $.ajax({
         crossOrigin: false,
         dataType: 'json',
-        url: "../monster_island/assets/data/monsters.json",
+        url: "../monster-arena/assets/data/monsters.json",
         type: "GET",
         success: function (data) {
             monsters = data;
