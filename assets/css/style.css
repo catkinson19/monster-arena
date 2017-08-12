@@ -1,0 +1,69 @@
+/* Typography */
+
+h1{
+    font-size: 6em;
+    font-family: 'Permanent Marker', cursive;
+    color:#FFF;
+    text-align: center;
+    margin: .5em 0em .5em 0em;
+}
+
+h2{
+    font-size: 2em;
+    font-family: 'Permanent Marker', cursive;
+    color:#000;
+    text-align: center;
+    margin: .2em 0em .2em 0em;
+}
+
+h3{
+    font-size: 1.6em;
+    font-family: 'Roboto', sans-serif;
+    color:#FFF;
+    text-align: center;
+    margin: 2em 0em 2em 0em;
+}
+
+h4{
+    margin: 1em 0em 2em 0em;
+}
+
+
+/*    font-family: 'Roboto', sans-serif; */
+
+/* Containers */
+
+body{
+    background-image: url(../images/wild_oliva.png);
+    background-repeat: repeat-x repeat-y;
+}
+
+.modal-body{
+    text-align: center;
+    margin: .2em 0em .2em 0em;
+}
+
+.monster-img{
+    width: 50%;
+    margin: auto;
+    display: block;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.progress {
+    height: 20px;
+    margin: .5em 0em 0em 0em;
+}
+
+.btn {
+    display: block;
+    margin: auto;
+}
+
+.mrg-top4 {
+    margin-top: 7em;
+    display: block;
+}

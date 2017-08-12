@@ -1,0 +1,1094 @@
+{
+    "alphaFloursaur": {
+        "mName": "Alpha Floursaur",
+        "mHealth": 24,
+        "mAttack": 6,
+        "mSpeed": 6,
+        "mClass": [
+            "omnivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/AlphaFlorasaur.png"
+    },
+    "arctorux": {
+        "mName": "Arctorux",
+        "mHealth": 18,
+        "mAttack": 2,
+        "mSpeed": 5,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Arctorux.png"
+    },
+    "beetroth": {
+        "mName": "Beetroth",
+        "mHealth": 8,
+        "mAttack": 3,
+        "mSpeed": 6,
+        "mClass": [
+            "herbivore",
+            "air",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Beetroth.png"
+    },
+    "bemie": {
+        "mName": "Bemie",
+        "mHealth": 8,
+        "mAttack": 1,
+        "mSpeed": 2,
+        "mClass": [
+            "omnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Bemie.png"
+    },
+    "bence": {
+        "mName": "Bence",
+        "mHealth": 10,
+        "mAttack": 2,
+        "mSpeed": 3,
+        "mClass": [
+            "herbivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Bence.png"
+    },
+    "bitrox": {
+        "mName": "bitrox",
+        "mHealth": 16,
+        "mAttack": 1,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Bitrox.png"
+    },
+    "booberdash": {
+        "mName": "Booberdash",
+        "mHealth": 16,
+        "mAttack": 1,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Booberdash.png"
+    },
+    "braylion": {
+        "mName": "Braylion",
+        "mHealth": 14,
+        "mAttack": 3,
+        "mSpeed": 3,
+        "mClass": [
+            "carnivore",
+            "ocean",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Braylion.png"
+    },
+    "brello": {
+        "mName": "Brello",
+        "mHealth": 8,
+        "mAttack": 2,
+        "mSpeed": 4,
+        "mClass": [
+            "carnivore",
+            "air",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Brello.png"
+    },
+    "broudrause": {
+        "mName": "Broudrause",
+        "mHealth": 10,
+        "mAttack": 2,
+        "mSpeed": 1,
+        "mClass": [
+            "carnivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Broudrause.png"
+    },
+    "bugatrum": {
+        "mName": "Bugatrum",
+        "mHealth": 14,
+        "mAttack": 2,
+        "mSpeed": 2,
+        "mClass": [
+            "herbivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Bugatrum.png"
+    },
+    "chameleos": {
+        "mName": "Chameleos",
+        "mHealth": 16,
+        "mAttack": 3,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Chameleos.png"
+    },
+    "chronorian": {
+        "mName": "Chronorian",
+        "mHealth": 10,
+        "mAttack": 3,
+        "mSpeed": 1,
+        "mClass": [
+            "omnicvore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Chronorian.png"
+    },
+    "clandu": {
+        "mName": "Clandu",
+        "mHealth": 12,
+        "mAttack": 3,
+        "mSpeed": 3,
+        "mClass": [
+            "carnivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Clandu.png"
+    },
+    "drigadrum": {
+        "mName": "Drigadrum",
+        "mHealth": 8,
+        "mAttack": 6,
+        "mSpeed": 6,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Drigadrum.png"
+    },
+    "eliente": {
+        "mName": "Eliente",
+        "mHealth": 16,
+        "mAttack": 3,
+        "mSpeed": 4,
+        "mClass": [
+            "herbivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Eliente.png"
+    },
+    "fablonce": {
+        "mName": "Fablonce",
+        "mHealth": 12,
+        "mAttack": 3,
+        "mSpeed": 3,
+        "mClass": [
+            "herbivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Fablonce.png"
+    },
+    "faboonka": {
+        "mName": "Faboonka",
+        "mHealth": 14,
+        "mAttack": 1,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "ocean",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Faboonka.png"
+    },
+    "florasaur": {
+        "mName": "Florasaur",
+        "mHealth": 16,
+        "mAttack": 3,
+        "mSpeed": 3,
+        "mClass": [
+            "omnivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Florasaur.png"
+    },
+    "frael": {
+        "mName": "Frael",
+        "mHealth": 13,
+        "mAttack": 4,
+        "mSpeed": 4,
+        "mClass": [
+            "omnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Frael.png"
+    },
+    "gibolonaw": {
+        "mName": "Gibolonaw",
+        "mHealth": 14,
+        "mAttack": 3,
+        "mSpeed": 2,
+        "mClass": [
+            "omnivore",
+            "ocean",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Gibolonaw.png"
+    },
+    "gorberon": {
+        "mName": "Gorberon",
+        "mHealth": 8,
+        "mAttack": 1,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Gorberon.png"
+    },
+    "goremagala": {
+        "mName": "Goremagala",
+        "mHealth": 16,
+        "mAttack": 8,
+        "mSpeed": 8,
+        "mClass": [
+            "herbivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Goremagala.png"
+    },
+    "gravoid": {
+        "mName": "Gravoid",
+        "mHealth": 20,
+        "mAttack": 3,
+        "mSpeed": 3,
+        "mClass": [
+            "carnivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Gravoid.png"
+    },
+    "guseux": {
+        "mName": "Guseux",
+        "mHealth": 8,
+        "mAttack": 1,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Guseux.png"
+    },
+    "hale": {
+        "mName": "Hale",
+        "mHealth": 6,
+        "mAttack": 1,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "ocean",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Hale.png"
+    },
+    "harandu": {
+        "mName": "Harandu",
+        "mHealth": 5,
+        "mAttack": 1,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Harandu.png"
+    },
+    "ibine": {
+        "mName": "Ibine",
+        "mHealth": 14,
+        "mAttack": 3,
+        "mSpeed": 3,
+        "mClass": [
+            "carnivore",
+            "air",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Ibine.png"
+    },
+    "isha": {
+        "mName": "Isha",
+        "mHealth": 14,
+        "mAttack": 5,
+        "mSpeed": 5,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Isha.png"
+    },
+    "jagerjack": {
+        "mName": "Jager Jack",
+        "mHealth": 20,
+        "mAttack": 5,
+        "mSpeed": 5,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Jagerjack.png"
+    },
+    "jaxtora": {
+        "mName": "Jaxtora",
+        "mHealth": 24,
+        "mAttack": 4,
+        "mSpeed": 4,
+        "mClass": [
+            "omnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Jaxtora.png"
+    },
+    "josian": {
+        "mName": "Josian",
+        "mHealth": 12,
+        "mAttack": 2,
+        "mSpeed": 2,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Josian.png"
+    },
+    "keauliah": {
+        "mName": "Keauliah",
+        "mHealth": 12,
+        "mAttack": 5,
+        "mSpeed": 5,
+        "mClass": [
+            "carnivore",
+            "air",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Keauliah.png"
+    },
+    "kerblaugh": {
+        "mName": "Kerblaugh",
+        "mHealth": 12,
+        "mAttack": 3,
+        "mSpeed": 3,
+        "mClass": [
+            "omnivore",
+            "air",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Kerblaugh.png"
+    },
+    "langeo": {
+        "mName": "Langeo",
+        "mHealth": 10,
+        "mAttack": 2,
+        "mSpeed": 2,
+        "mClass": [
+            "cranivore",
+            "air",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Langeo.png"
+    },
+    "mabepi": {
+        "mName": "Mabepi",
+        "mHealth": 26,
+        "mAttack": 6,
+        "mSpeed": 5,
+        "mClass": [
+            "cranivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Mabepi.png"
+    },
+    "mantarian": {
+        "mName": "Mantarian",
+        "mHealth": 16,
+        "mAttack": 8,
+        "mSpeed": 8,
+        "mClass": [
+            "cranivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Mantarian.png"
+    },
+    "manura": {
+        "mName": "Manura",
+        "mHealth": 6,
+        "mAttack": 1,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Manura.png"
+    },
+    "mirek": {
+        "mName": "Mirek",
+        "mHealth": 10,
+        "mAttack": 3,
+        "mSpeed": 3,
+        "mClass": [
+            "herbivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Mirek.png"
+    },
+    "moley": {
+        "mName": "Moley",
+        "mHealth": 22,
+        "mAttack": 4,
+        "mSpeed": 4,
+        "mClass": [
+            "carnivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Moley.png"
+    },
+    "nguelen": {
+        "mName": "Nguelen",
+        "mHealth": 20,
+        "mAttack": 7,
+        "mSpeed": 7,
+        "mClass": [
+            "carnivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Nguelen.png"
+    },
+    "nguin": {
+        "mName": "Nguin",
+        "mHealth": 14,
+        "mAttack": 3,
+        "mSpeed": 3,
+        "mClass": [
+            "carnivore",
+            "ocean",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Nguin.png"
+    },
+    "ohkata": {
+        "mName": "Ohkata",
+        "mHealth": 14,
+        "mAttack": 3,
+        "mSpeed": 4,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Ohkata.png"
+    },
+    "orc": {
+        "mName": "Orc",
+        "mHealth": 18,
+        "mAttack": 8,
+        "mSpeed": 6,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Orc.png"
+    },
+    "otterin": {
+        "mName": "Otterin",
+        "mHealth": 12,
+        "mAttack": 4,
+        "mSpeed": 6,
+        "mClass": [
+            "carnivore",
+            "ocean",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Otterin.png"
+    },
+    "oukian": {
+        "mName": "Oukian",
+        "mHealth": 10,
+        "mAttack": 4,
+        "mSpeed": 6,
+        "mClass": [
+            "carnivore",
+            "ocean",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Oukian.png"
+    },
+    "pecops": {
+        "mName": "Pecops",
+        "mHealth": 4,
+        "mAttack": 1,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "ocean",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Pecops.png"
+    },
+    "podribigo": {
+        "mName": "Podribigo",
+        "mHealth": 7,
+        "mAttack": 3,
+        "mSpeed": 3,
+        "mClass": [
+            "herbivore",
+            "ocean",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Podribigo.png"
+    },
+    "ponae": {
+        "mName": "Ponae",
+        "mHealth": 9,
+        "mAttack": 3,
+        "mSpeed": 3,
+        "mClass": [
+            "omnivore",
+            "ocean",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Ponae.png"
+    },
+    "quatine": {
+        "mName": "Quatine",
+        "mHealth": 18,
+        "mAttack": 9,
+        "mSpeed": 8,
+        "mClass": [
+            "omnivore",
+            "ocean",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Quatine.png"
+    },
+    "quineaux": {
+        "mName": "Quineaux",
+        "mHealth": 14,
+        "mAttack": 4,
+        "mSpeed": 9,
+        "mClass": [
+            "omnivore",
+            "air",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Quineaux.png"
+    },
+    "quingo": {
+        "mName": "Quingo",
+        "mHealth": 14,
+        "mAttack": 4,
+        "mSpeed": 9,
+        "mClass": [
+            "herbivore",
+            "ocean",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Quingo.png"
+    },
+    "rabrika": {
+        "mName": "Rabrika",
+        "mHealth": 17,
+        "mAttack": 1,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "ocean",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Rabrika.png"
+    },
+    "racott": {
+        "mName": "Racott",
+        "mHealth": 6,
+        "mAttack": 2,
+        "mSpeed": 2,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Racott.png"
+    },
+    "regisylvan": {
+        "mName": "Regisylvan",
+        "mHealth": 18,
+        "mAttack": 5,
+        "mSpeed": 10,
+        "mClass": [
+            "herbivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Regisylvan.png"
+    },
+    "rhax": {
+        "mName": "Rhax",
+        "mHealth": 16,
+        "mAttack": 10,
+        "mSpeed": 5,
+        "mClass": [
+            "carnivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Rhax.png"
+    },
+    "rhox": {
+        "mName": "Rhox",
+        "mHealth": 18,
+        "mAttack": 8,
+        "mSpeed": 6,
+        "mClass": [
+            "carnivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Rhox.png"
+    },
+    "roc": {
+        "mName": "Roc",
+        "mHealth": 9,
+        "mAttack": 3,
+        "mSpeed": 6,
+        "mClass": [
+            "carnivore",
+            "air",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Roc.png"
+    },
+    "rundelai": {
+        "mName": "Rundelai",
+        "mHealth": 12,
+        "mAttack": 7,
+        "mSpeed": 1,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Rundelai.png"
+    },
+    "rylachae": {
+        "mName": "Rylachae",
+        "mHealth": 7,
+        "mAttack": 5,
+        "mSpeed": 4,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Rylachae.png"
+    },
+    "sanovia": {
+        "mName": "Sanovia",
+        "mHealth": 19,
+        "mAttack": 10,
+        "mSpeed": 10,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Sanovia.png"
+    },
+    "sarayle": {
+        "mName": "Sarayle",
+        "mHealth": 6,
+        "mAttack": 1,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Sarayle.png"
+    },
+    "skomil": {
+        "mName": "Skomil",
+        "mHealth": 6,
+        "mAttack": 1,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "air",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Skomil.png"
+    },
+    "skreet": {
+        "mName": "Skreet",
+        "mHealth": 7,
+        "mAttack": 2,
+        "mSpeed": 2,
+        "mClass": [
+            "omnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Skreet.png"
+    },
+    "slurnom": {
+        "mName": "Slurnom",
+        "mHealth": 11,
+        "mAttack": 2,
+        "mSpeed": 1,
+        "mClass": [
+            "herbivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Slurnom.png"
+    },
+    "sprasarat": {
+        "mName": "Sprasarat",
+        "mHealth": 7,
+        "mAttack": 4,
+        "mSpeed": 4,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Sprasarat.png"
+    },
+    "stitch": {
+        "mName": "Stitch",
+        "mHealth": 8,
+        "mAttack": 11,
+        "mSpeed": 7,
+        "mClass": [
+            "carnivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Stitch.png"
+    },
+    "swampert": {
+        "mName": "Swampert",
+        "mHealth": 14,
+        "mAttack": 7,
+        "mSpeed": 8,
+        "mClass": [
+            "carnivore",
+            "ocean",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Swampert.png"
+    },
+    "symbiantassasin": {
+        "mName": "Symbiant Assasin",
+        "mHealth": 7,
+        "mAttack": 11,
+        "mSpeed": 6,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Symbiantassasin.png"
+    },
+    "symbiantharvester": {
+        "mName": "Symbiant Harvester",
+        "mHealth": 12,
+        "mAttack": 8,
+        "mSpeed": 2,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Symbiantharvester.png"
+    },
+    "symbiantthrasher": {
+        "mName": "Symbiant Thrasher",
+        "mHealth": 13,
+        "mAttack": 5,
+        "mSpeed": 5,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Symbiantthrasher.png"
+    },
+    "tau": {
+        "mName": "Tau",
+        "mHealth": 12,
+        "mAttack": 6,
+        "mSpeed": 4,
+        "mClass": [
+            "herbivore",
+            "ocean",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Tau.png"
+    },
+    "thundand": {
+        "mName": "Thundand",
+        "mHealth": 14,
+        "mAttack": 8,
+        "mSpeed": 8,
+        "mClass": [
+            "herbivore",
+            "air",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Thundand.png"
+    },
+    "toatody": {
+        "mName": "Toatody",
+        "mHealth": 8,
+        "mAttack": 2,
+        "mSpeed": 2,
+        "mClass": [
+            "carnivore",
+            "ocean",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Toatody.png"
+    },
+    "tominga": {
+        "mName": "Tominga",
+        "mHealth": 10,
+        "mAttack": 4,
+        "mSpeed": 8,
+        "mClass": [
+            "herbivore",
+            "air",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Tominga.png"
+    },
+    "toxrax": {
+        "mName": "Toxrax",
+        "mHealth": 9,
+        "mAttack": 2,
+        "mSpeed": 2,
+        "mClass": [
+            "herbivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Toxrax.png"
+    },
+    "turkunna": {
+        "mName": "Turkunna",
+        "mHealth": 13,
+        "mAttack": 6,
+        "mSpeed": 5,
+        "mClass": [
+            "carnivore",
+            "air",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Turkunna.png"
+    },
+    "tuslanda": {
+        "mName": "Tuslanda",
+        "mHealth": 8,
+        "mAttack": 10,
+        "mSpeed": 3,
+        "mClass": [
+            "omnivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Tuslanda.png"
+    },
+    "tweaker": {
+        "mName": "Tweaker",
+        "mHealth": 14,
+        "mAttack": 12,
+        "mSpeed": 8,
+        "mClass": [
+            "omnivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Tweaker.png"
+    },
+    "typhinja": {
+        "mName": "Typhinja",
+        "mHealth": 13,
+        "mAttack": 17,
+        "mSpeed": 9,
+        "mClass": [
+            "omnivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Typhinja.png"
+    },
+    "umanin": {
+        "mName": "Umanin",
+        "mHealth": 3,
+        "mAttack": 3,
+        "mSpeed": 3,
+        "mClass": [
+            "omnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Umanin.png"
+    },
+    "venopeede": {
+        "mName": "Venopeede",
+        "mHealth": 8,
+        "mAttack": 6,
+        "mSpeed": 6,
+        "mClass": [
+            "herbivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Venopeede.png"
+    },
+    "viceroid": {
+        "mName": "Viceroid",
+        "mHealth": 14,
+        "mAttack": 8,
+        "mSpeed": 6,
+        "mClass": [
+            "herbivore",
+            "land",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Viceroid.png"
+    },
+    "viopi": {
+        "mName": "Viopi",
+        "mHealth": 8,
+        "mAttack": 9,
+        "mSpeed": 9,
+        "mClass": [
+            "carnivore",
+            "air",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Viopi.png"
+    },
+    "vizerdrix": {
+        "mName": "Vizerdrix",
+        "mHealth": 14,
+        "mAttack": 12,
+        "mSpeed": 8,
+        "mClass": [
+            "carnivore",
+            "ocean",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Vizerdrix.png"
+    },
+    "watabou": {
+        "mName": "Watabou",
+        "mHealth": 5,
+        "mAttack": 5,
+        "mSpeed": 8,
+        "mClass": [
+            "herbivore",
+            "air",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Watabou.png"
+    },
+    "weaux": {
+        "mName": "Weaux",
+        "mHealth": 5,
+        "mAttack": 5,
+        "mSpeed": 1,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Weaux.png"
+    },
+    "wyanti": {
+        "mName": "Wyanti",
+        "mHealth": 5,
+        "mAttack": 5,
+        "mSpeed": 1,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Wyanti.png"
+    },
+    "xenos": {
+        "mName": "Xenos",
+        "mHealth": 14,
+        "mAttack": 12,
+        "mSpeed": 8,
+        "mClass": [
+            "carnivore",
+            "land",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Xenos.png"
+    },
+    "yurygoth": {
+        "mName": "Yurygoth",
+        "mHealth": 14,
+        "mAttack": 12,
+        "mSpeed": 8,
+        "mClass": [
+            "omnivore",
+            "ocean",
+            "pack"
+        ],
+        "mImage": "assets/images/monsters/Yurygoth.png"
+    },
+    "zamtrios": {
+        "mName": "Zamtrios",
+        "mHealth": 14,
+        "mAttack": 14,
+        "mSpeed": 8,
+        "mClass": [
+            "carnivore",
+            "ocean",
+            "solitary"
+        ],
+        "mImage": "assets/images/monsters/Zamtrios.png"
+    }
+}
